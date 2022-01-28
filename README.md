@@ -1,4 +1,4 @@
-# Digital_Ceasar_Cipher_with_Python
+# Digital_Caesar_Cipher_with_Python
 This is a fun Python project to encrypt and decryp messages using the Cesar Cipher technique. The algorithm is simple. You provide a string message (in English), the program will shift all the characters in the message in a direction to a certain number. This number is the 'encryption key' provided by the user. In order to decrypt the encryted message, the user will provide the encrypted message along with its accompanying encryption key.
 
 ✔️ Version 1:
