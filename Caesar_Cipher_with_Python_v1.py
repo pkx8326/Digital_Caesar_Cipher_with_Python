@@ -4,7 +4,7 @@
 # In[110]:
 
 
-#The Digital Ceasar Cipher
+#The Digital Caesar Cipher
 
 #The 'shift' variable:
 shift = 0
@@ -41,7 +41,7 @@ def decode(coded_string):
     
 
 #Begin the program    
-print("Welcome to the Cesar Cipher program!")
+print("Welcome to the Caear Cipher program!")
 
 choice = 0
 while choice != 1 and choice != 2:
