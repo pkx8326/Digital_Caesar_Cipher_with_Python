@@ -21,7 +21,7 @@ upper_pos = [] #To store the positions of upper-case alphabets in the original m
 loop_shift = 0 #For when encryption_key + the position of the alphabet is > 25
 
 #Begin the program----------------------------------------------------------------------
-print("Welcome to the Digital Ceasar Cipher!")
+print("Welcome to the Digital Caesar Cipher!")
 
 run_again = []
 while run_again not in ['N', 'n']:
