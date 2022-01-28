@@ -6,3 +6,5 @@ The first version of this program is a very simple excercise with Python's funct
 
 Version 2:
 This version is a more realistic of the Ceasar Cipher technique. It only encrypts and decrypts the 26 English alphabets. It will not give any error message if you try to encrypt the character 'z'. For example, if your message contains 'z' and your encryption key is '5', 'z' will become 'e'. The program is also capable of retaining the information about the positions of the upper-cased characters and spaces in the original message. The encrypted message will be typically 'cryptic' with all lower-cased characters and no spaces. However, the decrypted message will be exactly like the original message with proper-cased characters and all spacings originally provided by the user.
+
+This fun project was inspired by one of the lessons in the '100 Days of Code: The Complete Python Pro Bootcamp for 2022' by Angela Yu on Udemy. You can follow the course from this link:https://www.udemy.com/course/100-days-of-code/ (not a ref. link.)
